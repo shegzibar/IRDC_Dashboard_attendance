@@ -1,10 +1,11 @@
-# irdc__attend
+# irdc__attendance
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is an attendance dashboard for International research and development center in future university
+one of my first projects in flutter
 
 A few resources to get you started if this is your first Flutter project:
 
